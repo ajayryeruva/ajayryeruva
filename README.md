@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 
 
-## Ajay Reddy Yeruva is a DevOps SME, Speaker, and Author!!
+## Ajay Reddy Yeruva is a DevOps{Observability} SME, Independent Researcher!!
 
 - 🥅 Ajay's 2022 Goals: More contributions to OpenSource Cloud Native Technology Tools
 - 👯 He is looking to collaborate with other content creators, and open source contributors

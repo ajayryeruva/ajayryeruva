@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Ajay Reddy Yeruva is a DevSecOps/SRE SME, Independent Researcher!!
 
-- 🥅 Ajay's 2024 Goals: More contributions to OpenSource Cloud Native Technology Tools
+- 🥅 Ajay's 2025 Goals: More contributions to OpenSource Cloud Native Technology Tools
 - 👯 He is looking to collaborate with other content creators, and open source contributors
 - ⚡ Fun fact: He loves to play Chess, Cricket and Tennis
 
